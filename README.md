@@ -11,9 +11,9 @@
 * [back-end](http://lab-13-bearer-js.herokuapp.com/)
 <!-- * [front-end](http://xyz.com) (when applicable) -->
 
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
+<!-- #### Documentation -->
+<!-- * [api docs](http://xyz.com) (API servers)
+* [jsdoc](http://xyz.com) (Server assignments) -->
 
 <!-- ### Modules
 #### `modulename.js`
