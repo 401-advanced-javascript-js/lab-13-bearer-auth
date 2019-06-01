@@ -27,6 +27,10 @@ app.use(authRouter);
 app.use(notFound);
 app.use(errorHandler);
 
+app.get('/docs', (req,res) => {
+  res.sendFile('../docs/index.html');
+});
+
 let isRunning = false;
 
 module.exports = {
